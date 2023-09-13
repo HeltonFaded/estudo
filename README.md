@@ -7,3 +7,7 @@ Este é um programa Python simples para cadastrar informações de estudos em um
 - Python 3.x
 - PySimpleGUI
 - openpyxl (já incluso na instalação padrão do Python)
+video em funcionamento -> https://github.com/HeltonFaded/estudo/assets/144186013/1fadb2a7-d206-488b-b644-4bee0c6644c7
+
+
+
